@@ -9,10 +9,21 @@ console.log(typeof askText, askText, askText.length)
 
 // leggere al contrario la parola inserita
 
-function reverseCheck (listaLettere) {
+function palindromeCheck (listaLettere) {
+  //creare due FOR, uno normale, e uno reverse
 
-  for(let i = listaLettere.length; i<) {
+  let regular
+
+  let reverse
+
+  //FOR REGULAR
+  for( let i = 0; i < listaLettere.length; i++)
+
+  //FOR REVERSE
+  for(let i = listaLettere.length; i > 0; i++) {
     
   }
 
-}
+
+  
+} 
