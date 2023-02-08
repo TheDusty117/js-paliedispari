@@ -5,6 +5,10 @@ let askText = prompt('inserisci una parola').split("")
 
 console.log(typeof askText, askText)
 
+function palindromeCheck(word) {
+  if askText[i] === 
+}
+ 
 //SPLIT crea un array di lettere di cui la parola inserita da UTENTE e' COMPOSTA
 //ES. (OSSO   [O,S,S,O])
 
